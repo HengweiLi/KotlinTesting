@@ -2,7 +2,7 @@
 A simple, opensource weather app for Android. It gathers data from OpenWeatherMap, via their public API.
 
 # Features
-Simple design
+Simple design\n
 Detailed 5 day forecast
 Works with any city in the world
 Offline functionality but not yet complete(Sqlite)
